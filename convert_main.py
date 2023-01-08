@@ -270,6 +270,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# python test.py --cfg_file cfgs/custom_models/pv_rcnn.yaml --batch_size 2 --ckpt /mnt/mars-beta/izzeddin/OpenPCDet/output/custom_models/pv_rcnn/default/ckpt/checkpoint_epoch_14.pth
-# python train.py --cfg_file cfgs/custom_models/pv_rcnn.yaml --batch_size 2 --workers 1
